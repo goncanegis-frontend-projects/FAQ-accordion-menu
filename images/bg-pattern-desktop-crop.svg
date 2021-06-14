@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 389 511" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,-259.811,-127.914)">
+        <g id="bg-pattern-desktop.svg" transform="matrix(1.00104,0,0,0.998925,165.093,306.752)">
+            <clipPath id="_clip1">
+                <rect x="94.619" y="-179.03" width="388.381" height="510.705"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1,0,0,1,-483,-472.5)">
+                    <clipPath id="_clip2">
+                        <rect x="0" y="0" width="966" height="945"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip2)">
+                        <g opacity="0.1">
+                            <path d="M468.755,937.353L19.744,671.73C5.449,663.683 -6.804,650.5 7.124,641.852L457.734,381.89C464.488,377.696 474.752,374.944 481.637,378.954L952.902,652.781C967.198,661.089 969.763,684.231 955.521,692.618L527.925,936.933C509.688,947.524 487.14,947.684 468.755,937.353Z" style="fill:rgb(104,98,230);fill-rule:nonzero;"/>
+                            <path d="M468.755,561.353L19.744,295.73C5.449,287.683 -6.804,274.5 7.124,265.852L457.734,5.89C464.488,1.696 474.752,-1.056 481.637,2.954L952.902,276.781C967.198,285.089 969.763,308.231 955.521,316.618L527.925,560.933C509.688,571.524 487.14,571.684 468.755,561.353Z" style="fill:none;fill-rule:nonzero;stroke:rgb(30,31,54);stroke-width:1px;"/>
+                            <path d="M468.755,636.353L19.744,370.73C5.449,362.683 -6.804,349.5 7.124,340.852L457.734,80.89C464.488,76.696 474.752,73.944 481.637,77.954L952.902,351.781C967.198,360.089 969.763,383.231 955.521,391.618L527.925,635.933C509.688,646.524 487.14,646.684 468.755,636.353Z" style="fill:none;fill-rule:nonzero;stroke:rgb(30,31,54);stroke-width:1px;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
